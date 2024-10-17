@@ -1,0 +1,15 @@
+{
+    "email": {
+        "emailSucess": "teste@teste.com",
+        "emailError": "teste.com.br"
+    },
+    "senha": {
+        "senhaSucess": "123456",
+        "senhaError": "1A25"
+    },
+    "mensagens": {
+        "emailInvalidoVazio": "E-mail inválido.",
+        "senhaInvalidaVazia": "Senha inválida."
+    }
+  }
+  
